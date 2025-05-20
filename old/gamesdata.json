@@ -1,0 +1,270 @@
+{
+    "retro": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1614595255/mdtfinder/game/retro.png",
+        "name": "Retro",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "pos": [
+            0,
+            9
+        ],
+        "ii": 1,
+        "requiredGames": 5,
+        "requiredKills": 150,
+        "requiredWins": 30,
+        "requiredKD": 2,
+        "requiredWinrate": 70
+    },
+    "rush": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1558707042/mdtfinder/game/rush.png",
+        "name": "Rush",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "pos": [
+            9,
+            18
+        ],
+        "ii": 2,
+        "requiredGames": 5,
+        "requiredKills": 150,
+        "requiredWins": 30,
+        "requiredKD": 2,
+        "requiredWinrate": 70
+    },
+    "hikabrain": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1558707024/mdtfinder/game/hikabrain.png",
+        "name": "HikaBrain",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "pos": [
+            18,
+            26
+        ],
+        "ii": 3,
+        "requiredGames": 8,
+        "requiredKills": 150,
+        "requiredWins": 30,
+        "requiredKD": 1.5,
+        "requiredWinrate": 70
+    },
+    "skywars": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1558707042/mdtfinder/game/skywars.png",
+        "name": "Skywars",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            3,
+            4,
+            5,
+            6
+        ],
+        "pos": [
+            26,
+            33
+        ],
+        "ii": 4,
+        "requiredGames": 5,
+        "requiredKills": 150,
+        "requiredWins": 20,
+        "requiredKD": 3,
+        "requiredWinrate": 50
+    },
+    "octogone": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1558707024/mdtfinder/game/octogone.png",
+        "name": "Octogone",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            3,
+            4,
+            5,
+            6
+        ],
+        "pos": [
+            33,
+            41
+        ],
+        "ii": 5,
+        "requiredGames": 5,
+        "requiredKills": 150,
+        "requiredWins": 20,
+        "requiredKD": 3,
+        "requiredWinrate": 60
+    },
+    "shootcraft": {
+        "image": "https://media.discordapp.net/attachments/580436332069781532/581002938558840833/20190523_081749.jpg?width=513&height=513",
+        "name": "ShootCraft",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            3,
+            4,
+            5,
+            6
+        ],
+        "pos": [
+            41,
+            48
+        ],
+        "ii": 6,
+        "requiredGames": 3,
+        "requiredKills": 80,
+        "requiredWins": 15,
+        "requiredKD": 2,
+        "requiredWinrate": 50
+    },
+    "infected": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1558707072/mdtfinder/game/infected.png",
+        "name": "Infected",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            3,
+            4,
+            5,
+            6
+        ],
+        "pos": [
+            48,
+            55
+        ],
+        "ii": 7,
+        "requiredGames": 3,
+        "requiredKills": 80,
+        "requiredWins": 30,
+        "requiredKD": 2,
+        "requiredWinrate": 70
+    },
+    "survival": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1558707151/mdtfinder/game/hungergames.png",
+        "name": "Survival",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            3,
+            4,
+            5,
+            6
+        ],
+        "pos": [
+            55,
+            62
+        ],
+        "ii": 8,
+        "requiredGames": 3,
+        "requiredKills": 30,
+        "requiredWins": 15,
+        "requiredKD": 3,
+        "requiredWinrate": 40
+    },
+    "blitz": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1558707089/mdtfinder/game/blitz.png",
+        "name": "Blitz",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "pos": [
+            62,
+            71
+        ],
+        "ii": 9,
+        "requiredGames": 5,
+        "requiredKills": 90,
+        "requiredWins": 10,
+        "requiredKD": 1.5,
+        "requiredWinrate": 70
+    },
+    "pvpsmash": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1558707056/mdtfinder/game/pvpsmash.png",
+        "name": "PvPSmash",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            3,
+            4,
+            5,
+            6
+        ],
+        "pos": [
+            71,
+            79
+        ],
+        "ii": 10,
+        "requiredGames": 3,
+        "requiredKills": 125,
+        "requiredWins": 10,
+        "requiredKD": 2.5,
+        "requiredWinrate": 30
+    },
+    "landrush": {
+        "image": "https://res.cloudinary.com/frozed/image/upload/v1558707024/mdtfinder/game/landrush.png",
+        "name": "LandRush",
+        "data": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "pos": [
+            79,
+            88
+        ],
+        "ii": 11,
+        "requiredGames": 2,
+        "requiredKills": 30,
+        "requiredWins": 5,
+        "requiredKD": 3,
+        "requiredWinrate": 60
+    }
+}

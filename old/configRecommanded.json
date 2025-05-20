@@ -1,0 +1,83 @@
+{
+    "adminCommand": [
+        "219380115602145280",
+        "376008564478836752"
+    ],
+    "blockCommand": [],
+    "commands": [
+        {
+            "name": "eval",
+            "admin": true
+        },
+        {
+            "name": "hotfix",
+            "admin": true
+        },
+        {
+            "name": "restart",
+            "admin": true,
+            "alias": [
+                "forcerestart"
+            ]
+        },
+        {
+            "name": "invite",
+            "alias": [
+                "invitation"
+            ]
+        },
+        {
+            "name": "register",
+            "disable": false
+        },
+        {
+            "name": "elo"
+        },
+        {
+            "name": "update",
+            "disable": false
+        }
+    ],
+    "embedColor": "#ffffff",
+    "prefix": ".",
+    "version": "pre release 0.9",
+    "background": "",
+    "game": "👀 RIGHT THERE RIGHT THERE RIGHT THERE",
+    "mdtfinder": true,
+    "botmc": true,
+    "statsBg": "https://res.cloudinary.com/frozed/image/upload/v1632728585/mdtfinder/asset/mdtfinder-bg-stats-halloween.png",
+    "stats": {
+        "status": "false",
+        "transparence": 0.4
+    },
+    "test": [
+        "penis"
+    ],
+    "invite": "https://discord.gg/W7TGJyp",
+    "admin": [
+        "redlegamin"
+    ],
+    "autoMode": true,
+    "allowedGamemodes": {
+        "skywars": {
+            "status": true
+        },
+        "rush": {
+            "status": true
+        },
+        "default": {
+            "status": false
+        }
+    },
+    "ranked": {
+        "guildID": "1039895288992772126",
+        "channelID": "417516750264074250",
+        "parentID": "910881502915620864"
+    },
+    "serverIP": "funcraft.net",
+    "port": "25565",
+    "mongodb": "",
+    "playerTrack": [],
+    "trackingSpeed": 5000,
+    "retryFetchGameLimit": 5
+}

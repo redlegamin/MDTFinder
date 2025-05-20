@@ -1,0 +1,6 @@
+config.json
+.*
+.env
+!/.gitignore
+node_modules
+queues.json
